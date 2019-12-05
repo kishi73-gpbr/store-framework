@@ -8,7 +8,8 @@
       "info-card#rethink",
       "image#electronics",
       "image#major-appliance",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
   "info-card#button-right": {
