@@ -42,6 +42,12 @@
       "info-card#rethink"
     ]
   },
+  "flex-layout.col":{
+    "children": [
+      "image#electronics",
+      "image#major-appliance"
+    ]
+  },
   
  "info-card#rethink": {
     "props": {
